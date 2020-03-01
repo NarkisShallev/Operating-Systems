@@ -1,0 +1,3 @@
+/home/narkis/CLionProjects/m.a/ex32/test/students
+/home/narkis/CLionProjects/m.a/ex32/test/input.txt
+/home/narkis/CLionProjects/m.a/ex32/test/correctOutput.txt
